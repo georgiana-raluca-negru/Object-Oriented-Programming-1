@@ -1,0 +1,181 @@
+
+
+Nume clinica veterinara: HelPet
+Nume vaccinuri: polivalent,antirabic,panleucopenie felina,calicivirus felin,herpesvirus felin,rinotraheita,parvovirus canin,leptospiroza,hepatita
+Pret vaccinuri: 70 80 120 70 100 50 90 120 80
+Stoc vaccinuri: 10 5 6 55 12 2 3 6 11
+Mentiuni: pisici si caini,pisici si caini,pisici,pisici,pisici,pisici,caini,caini,caini
+
+SALI DE CONSULTATIE
+1 ecograf
+10 fara ecograf
+11 ecograf
+12 ecograf
+13 fara ecograf
+14 fara ecograf
+20 fara ecograf
+SFARSIT
+
+SALI DE OPERATIE
+2 sterilizata
+SFARSIT
+
+DIRECTOR DE DEPARTAMENT
+Nume si prenume: Cristescu Emanuela
+Telefon: 0722266765
+Gen: Feminin
+Varsta: 41
+Departament: Stomatologie veterinara
+Specializare: Extrageri dentare
+Ani experienta: 10
+SFARSIT
+
+DIRECTOR DE DEPARTAMENT
+Nume si prenume: Tudose Vlad
+Telefon: 0744916893
+Gen: Masculin
+Varsta: 38
+Departament: Examene de laborator
+Specializare: Hematologie
+Ani experienta: 10
+SFARSIT
+
+DIRECTOR DE DEPARTAMENT
+Nume si prenume: Popescu Mircea
+Telefon: 0721316099
+Gen: Masculin
+Varsta: 50
+Departament: Medicina preventiva
+Specializare: Consultatii
+Ani experienta: 23
+SFARSIT
+
+ADMINISTRATOR
+Nume si prenume: Ionescu Laura
+Telefon: 0755277123
+Gen: Feminin
+Varsta: 46
+Departament: Chirurgie
+SFARSIT
+
+ADMINISTRATOR
+Nume si prenume: Radu Alexandra
+Telefon: 0730123984
+Gen: Feminin
+Varsta: 38
+Departament: Pediatrie Veterinara
+SFARSIT
+
+MEDIC VETERINAR
+Nume si prenume: Iliescu Carmen
+Telefon: 0741097850
+Gen: Feminin
+Varsta: 47
+Specializare: Ecografie
+Ani experienta: 18
+SFARSIT
+
+MEDIC VETERINAR
+Nume si prenume: Mihailescu Cosmin
+Telefon: 0756142013
+Gen: Masculin
+Varsta: 36
+Specializare: Medicina interna
+Ani experienta: 7
+SFARSIT
+
+MEDIC VETERINAR
+Nume si prenume: Lungu Mioara
+Telefon: 0771237600
+Gen: Feminin
+Varsta: 35
+Specializare: Cosmetica
+Ani experienta: 6
+SFARSIT
+
+INCEPUT PROGRAMARE
+Nume si prenume: Marin Elena
+Telefon: 0765432187
+Gen: Feminin
+Varsta: 28
+Medic veterinar: Popescu Mircea
+Nume pacient: Snowy
+Gen pacient: Femela
+Varsta(in ani): 2
+Greutate(in gr): 1800
+Specie: Iepure
+SFARSIT PROGRAMARE
+
+INCEPUT PROGRAMARE
+Nume si prenume: Negru Raluca
+Telefon: 0769237600
+Gen: Feminin
+Varsta: 20
+Medic veterinar: Mihailescu Cosmin
+Nume pacient: Angela
+Gen pacient: Femela
+Varsta(in ani): 2
+Greutate(in gr): 2000
+Specie: Pisica
+ID-urile vaccinelor: 1 3 6
+Lungimea blanii: Lunga
+SFARSIT PROGRAMARE
+
+INCEPUT PROGRAMARE
+Nume si prenume: Ceausescu Catalina
+Telefon: 0788299012
+Gen: Feminin
+Varsta: 25
+Medic veterinar: Popescu Mircea
+Nume pacient: Bella
+Gen pacient: Femela
+Varsta(in ani): 6
+Greutate(in gr): 4000
+Specie: Caine
+Id-urile vaccinelor: 2 7
+Talie: Mica
+Dresaj: Nu
+SFARSIT PROGRAMARE
+
+INCEPUT PROGRAMARE
+Nume si prenume: Popescu Andrei
+Telefon: 0745123456
+Gen: Masculin
+Varsta: 30
+Medic veterinar: Lungu Mioara
+Nume pacient: Max
+Gen pacient: Mascul
+Varsta(in ani): 4
+Greutate(in gr): 5500
+Specie: Caine
+Id-urile vaccinelor: 1 7 9
+Talie: Medie
+Dresaj: Da
+SFARSIT PROGRAMARE
+
+INCEPUT PROGRAMARE
+Nume si prenume: Soare Robert
+Telefon: 0751166926
+Gen: Masculin
+Varsta: 34
+Medic veterinar: Tudose Vlad
+Nume pacient: Kiki
+Gen pacient: Mascul
+Varsta(in ani): 8
+Greutate(in gr): 100
+Specie: Pasare
+Culoare penaj: albastru
+SFARSIT PROGRAMARE
+
+INCEPUT PROGRAMARE
+Nume si prenume: Coman Radu
+Telefon: 0723343175
+Gen: Masculin
+Varsta: 33
+Medic veterinar: Popescu Mircea
+Nume pacient: Rocky
+Gen pacient: Mascul
+Varsta(in ani): 3
+Greutate(in gr): 200
+Specie: Veverita
+SFARSIT PROGRAMARE

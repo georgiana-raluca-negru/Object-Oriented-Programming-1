@@ -1,0 +1,15 @@
+#folder de build generat de CLion
+cmake-build-*/
+
+#folder cu setarile IDE-ului
+.idea/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+*.exe
+
+*.o
+*.a
+*.so
