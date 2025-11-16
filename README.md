@@ -35,7 +35,8 @@ This project is configured to be built with CMake and is best run using CLion.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/georgiana-raluca-negru/Object-Oriented-Programming-1](https://github.com/georgiana-raluca-negru/Object-Oriented-Programming-1)
+   git clone https://github.com/georgiana-raluca-negru/Object-Oriented-Programming-1
+   cd Object-Oriented-Programming-1
    ```
 
 2. **Open in CLion:**
